@@ -1,6 +1,6 @@
 # CPNT 260Assignment 3: 404 Page Not Found
 
-Author: Eli Ewa Live site: 
+Author: Eli Ewa Live site: https://eliewa.github.io/cpnt260-a3/
 
 ## Above and Beyond
 
